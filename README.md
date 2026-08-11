@@ -15,5 +15,5 @@ I'm currently building my public portfolio by making at least one useful Git com
 
 ## Current direction
 
-I'm especially interested in international and remote-friendly technical roles, with a long-term goal of working from Japan.
+Moving familiy back to Japan via work that allows it.
 
